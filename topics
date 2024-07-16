@@ -1,1 +1,18 @@
+MongoDB, is the database technology for storing and retrieving data for your applications.
+
+To learn MongoDB, you should have a basic understanding of how databases work and how to use SQL queries. 
+
+- [ ]  **Database Structure:** Databases, Collections, Documents
+- [ ]  **CRUD Operations:** Create (insert), Read (find), Update, Delete
+- [ ]  **Data Modeling:** Schemas, Document Relationships
+- [ ]  **Indexing:** Single Field, Multikey, Text-Based
+- [ ]  **Querying:** Filtering and Sorting Data
+- [ ]  **Aggregation:** Performing Calculations and Grouping Data
+- [ ]  **Security:** Authentication and Authorization
+- [ ]  **Replication and Sharding:** Scalability and Availability
+
+======================================================================================================
+
+https://youtu.be/c2M-rlkkT5o?si=2jAqnFPO2chpO9Wa full course link 
+======================================================================================================
 
